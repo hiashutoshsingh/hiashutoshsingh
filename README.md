@@ -1,19 +1,19 @@
 ### Hi, I am Ashutosh.
 
 <a href="https://twitter.com/hiashutoshsingh">
-  <img align="left" alt="Ashu's Twitter" width="22px" src="twitter.svg" />
+  <img align="left" alt="Ashu's Twitter" width="28px" src="twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/hiashutoshsingh">
-  <img align="left" alt="Ashu's Linkdein" width="22px" src="linkedin.svg" />
+  <img align="left" alt="Ashu's Linkdein" width="28px" src="linkedin.svg" />
 </a>
 <a href="https://github.com/hiashutoshsingh">
-  <img align="left" alt="Ashu's Github" width="22px" src="github.svg" />
+  <img align="left" alt="Ashu's Github" width="28px" src="github.svg" />
 </a>
 <a href="https://instagram.com/hiashutoshsingh">
-  <img align="left" alt="Ashu's Instagram" width="22px" src="instagram.svg" />
+  <img align="left" alt="Ashu's Instagram" width="28px" src="instagram.svg" />
 </a>
 <a href="https://www.facebook.com/hiashutoshsingh">
-  <img align="left" alt="Ashu's Facebook" width="22px" src="facebook.svg" />
+  <img align="left" alt="Ashu's Facebook" width="28px" src="facebook.svg" />
 </a>
 
 <br/>
