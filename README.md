@@ -1,5 +1,5 @@
 ### Hi, I am Ashutosh.
-
+<br/>
 <a href="https://twitter.com/hiashutoshsingh">
   <img align="left" alt="Ashu's Twitter" width="28px" src="twitter.svg" />
 </a>
@@ -22,6 +22,7 @@
 
 <a href="https://github.com/hiashutoshsingh">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiashutoshsingh&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/>
+<br/>
 <br/>
 <br/>
 
