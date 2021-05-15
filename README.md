@@ -13,7 +13,7 @@
   <img align="left" alt="Ashu's Facebook" width="28px" src="facebook.svg" />
 </a>
 <a href="https://medium.com/@hiashutosh">
-  <img align="left" alt="Ashu's Medium" width="28px" src="medium.png" />
+  <img align="left" alt="Ashu's Medium" width="28px" src="medium_new.png" />
 </a>
 
 <br/>
