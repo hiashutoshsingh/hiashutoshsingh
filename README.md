@@ -6,9 +6,6 @@
 <a href="https://linkedin.com/in/hiashutoshsingh">
   <img align="left" alt="Ashu's Linkdein" width="28px" src="linkedin.svg" />
 </a>
-<a href="https://github.com/hiashutoshsingh">
-  <img align="left" alt="Ashu's Github" width="28px" src="github.png" />
-</a>
 <a href="https://instagram.com/hiashutoshsingh">
   <img align="left" alt="Ashu's Instagram" width="28px" src="instagram.svg" />
 </a>
