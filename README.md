@@ -24,6 +24,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiashutoshsingh&show_icons=true&theme=gotham&line_height=27" alt="Ashutosh's github stats"/>
 <br/>
 <br/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hiashutoshsingh&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+<br/>
+<br/>
 <br/>
 
   ![Profile views](https://gpvc.arturio.dev/hiashutoshsingh)
